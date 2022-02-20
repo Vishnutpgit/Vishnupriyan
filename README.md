@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishnutpgit
+- 👋 Hi, I’m @Vishnupriyan
 - 👀 I’m interested in space technologies and electric vehicle automation
 - 🌱 I’m currently learning Android App development
 - 💞️ I’m looking to collaborate on automation projects in progamming stream
