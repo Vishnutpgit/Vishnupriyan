@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnupriyan
 - 👀 I’m interested in space technologies and electric vehicle automation
-- 🌱 I’m currently learning Android App development
+- 🌱 I have completed VLSI Design and Verification course under the Maven Silicon VLSI training centre training process
 - 💞️ I’m looking to collaborate on automation projects in progamming stream
 - 📫 How to reach me is by also through my Instagram ID "king_of_the_spotlight".
 
